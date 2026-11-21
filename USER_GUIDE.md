@@ -1,8 +1,8 @@
-# Policy Tide user guide
+# Policytide user guide
 
 [Project overview](README.md)
 
-Policy Tide helps you explore selected UK policy changes, compare parties' 2024 election promises and estimate how certain tax and pay scenarios could affect your take-home pay. It is an independent, curated prototype, not live news, voting advice or a complete financial assessment.
+Policytide helps you explore selected UK policy changes, compare parties' 2024 election promises and estimate how certain tax and pay scenarios could affect your take-home pay. It is an independent, curated prototype, not live news, voting advice or a complete financial assessment.
 
 ## Get started
 
@@ -48,7 +48,7 @@ This is **not** a complete household or tax calculator. It does not model all in
 
 ## How personalisation and privacy work
 
-Policy Tide uses the interests and circumstances you select to rank related material. It does not hide all other parties or infer your voting intentions. A closer match does not imply that a policy is good for you, that it will happen or that you should support the party behind it.
+Policytide uses the interests and circumstances you select to rank related material. It does not hide all other parties or infer your voting intentions. A closer match does not imply that a policy is good for you, that it will happen or that you should support the party behind it.
 
 Your answers are kept in local browser storage. There is no login, cross-device sync or app analytics. If you clear the profile or browser site data, the saved choices may disappear.
 
@@ -56,4 +56,4 @@ Your answers are kept in local browser storage. There is no login, cross-device 
 
 Start with the original source linked to the record and check both its publication date and the record's review date. Tax rules, bills and government announcements can change after a snapshot was prepared. The monitoring tools generate research leads for review; they do not automatically revise what you read in the app.
 
-Policy Tide is a prototype for understanding public information, not a replacement for official legal, tax or financial advice.
+Policytide is a prototype for understanding public information, not a replacement for official legal, tax or financial advice.
