@@ -1,12 +1,12 @@
-# Policy Tide
+# Policytide
 
 [User guide](USER_GUIDE.md)
 
 ## What it is
 
-Policy Tide is an independent UK politics web app that brings policy developments, 2024 election promises and a personal finance illustration into one place. Its goal is to make complex policy information easier to explore, understand and relate to your own circumstances, without telling you which party to support.
+Policytide is an independent UK politics web app that brings policy developments, 2024 election promises and a personal finance illustration into one place. Its goal is to make complex policy information easier to explore, understand and relate to your own circumstances, without telling you which party to support.
 
-This public repository contains the **project overview and user guide only**. The application source and editorial research workflows are kept in a separate private repository. Policy Tide is currently a curated prototype, not a live or exhaustive political information service.
+This public repository contains the **project overview and user guide only**. The application source and editorial research workflows are kept in a separate private repository. Policytide is currently a curated prototype, not a live or exhaustive political information service.
 
 ## Key features
 
@@ -47,7 +47,7 @@ There is no account system, application database or frontend framework. The moni
 
 ## Sources, privacy and limitations
 
-Policy Tide points readers to original policy announcements, manifesto documents, official UK tax guidance and independent analysis where relevant. It draws on sources such as [UK Parliament](https://www.parliament.uk/), [GOV.UK](https://www.gov.uk/), [Labour's 2024 manifesto](https://labour.org.uk/updates/stories/labour-manifesto-2024-sign-up/) and [Full Fact](https://fullfact.org/government-tracker/).
+Policytide points readers to original policy announcements, manifesto documents, official UK tax guidance and independent analysis where relevant. It draws on sources such as [UK Parliament](https://www.parliament.uk/), [GOV.UK](https://www.gov.uk/), [Labour's 2024 manifesto](https://labour.org.uk/updates/stories/labour-manifesto-2024-sign-up/) and [Full Fact](https://fullfact.org/government-tracker/).
 
 Personalisation is kept in the browser. The prototype has no user accounts or app analytics. The calculator covers defined employment and loan scenarios, not every UK tax rule or personal circumstance. Please verify official sources and their dates before making decisions.
 
